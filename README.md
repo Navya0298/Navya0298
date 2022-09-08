@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Navya0298/Navya0298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... My secrets
 - 📫 How to reach me: ... Through social media
 - ⚡ Fun fact: ... I love to do painting and also listen to songs
--->
